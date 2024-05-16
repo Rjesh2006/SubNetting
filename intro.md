@@ -1,4 +1,4 @@
-*here is the easy to understand defination of subnets:*
+*here is the easy  to understand definition of subnets:----*
 
   - A subnet, short for subnetwork, is a smaller, logically segmented portion of a larger network. 
     It's essentially a subdivision of a network created to improve its efficiency, security, and 
