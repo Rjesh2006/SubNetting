@@ -4,6 +4,7 @@
 
   
      ![image](https://github.com/Rjesh2006/SubNetting/assets/143868643/900b5347-43be-4435-9a26-8c8e73a7d511)
+     - image arefrence :[ lifewire.com](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017)
 
 1. **Layer of Operation**: Subnetting primarily operates at the network layer (Layer 3) of the OSI model.
 2. **Function**: It involves dividing a single network into smaller subnetworks or subnets.
