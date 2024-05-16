@@ -22,22 +22,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **usecases in networking like use in osi models layers** 
  - [usecases_in communcation_networks]()
 
  -  **in cloud computing**
