@@ -23,7 +23,7 @@
 
 
 - **usecases in networking like use in osi models layers** 
- - [usecases_in communcation_networks]()
+ - [usecases_in communcation_networks](https://github.com/Rjesh2006/SubNetting/blob/main/networks.md)
 
  -  **in cloud computing**
- -  [in_cloud_]()
+ -  [in_cloud_](https://github.com/Rjesh2006/SubNetting/blob/main/cloud.md)
