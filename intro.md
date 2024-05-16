@@ -15,6 +15,6 @@
       security requirements, making it easier to manage and control traffic within the network.
 
       - *you can also go through with this images the flow creation of subnet mask :-*
-       - ![image](https://github.com/Rjesh2006/SubNetting/assets/143868643/74062b6e-02d0-4c7d-867c-e195b89f527f)
+        ![image](https://github.com/Rjesh2006/SubNetting/assets/143868643/74062b6e-02d0-4c7d-867c-e195b89f527f)
        - image refrence :https://avinetworks.com/
 
